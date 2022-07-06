@@ -1,0 +1,15 @@
+C:\Examples\Ex007_lines\bin\Debug\net6.0\Ex007_lines.exe
+C:\Examples\Ex007_lines\bin\Debug\net6.0\Ex007_lines.deps.json
+C:\Examples\Ex007_lines\bin\Debug\net6.0\Ex007_lines.runtimeconfig.json
+C:\Examples\Ex007_lines\bin\Debug\net6.0\Ex007_lines.dll
+C:\Examples\Ex007_lines\bin\Debug\net6.0\Ex007_lines.pdb
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.csproj.AssemblyReference.cache
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.AssemblyInfoInputs.cache
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.AssemblyInfo.cs
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.csproj.CoreCompileInputs.cache
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.dll
+C:\Examples\Ex007_lines\obj\Debug\net6.0\refint\Ex007_lines.dll
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.pdb
+C:\Examples\Ex007_lines\obj\Debug\net6.0\Ex007_lines.genruntimeconfig.cache
+C:\Examples\Ex007_lines\obj\Debug\net6.0\ref\Ex007_lines.dll
